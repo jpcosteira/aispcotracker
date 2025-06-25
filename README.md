@@ -1,2 +1,0 @@
-# aispcotracker
-Cotracker on docker
